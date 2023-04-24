@@ -1,9 +1,11 @@
+//  /*
 //
-//  ContentView.swift
-//   Password
+//  Project: Password
+//  File: ContentView.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 24.04.0223
 //
-//  Created by Elaidzha Shchukin on 24.04.2023.
-//
+//  */ 
 
 import SwiftUI
 
